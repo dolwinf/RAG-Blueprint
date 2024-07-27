@@ -22,4 +22,4 @@ def get_query(query):
     print(result)
 
 
-get_query("Tell me something about how a Lion reproduces")
+get_query("Suggest places to visit in NYC")
